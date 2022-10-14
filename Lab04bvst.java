@@ -14,29 +14,29 @@ public class Lab04bvst extends Applet
     {
         // DRAW CUBE
 
-    g.drawLine(100,200,100,300);
-    g.drawLine(100,200,200,200);
-    g.drawLine(100,300,200,300);
-    g.drawLine(200,200,200,300);
-    g.drawLine(50,250,50,150);
-    g.drawLine(50,250,150,250);
-    g.drawLine(50,150,150,150);
-    g.drawLine(50,150,150,150);
-    g.drawLine(150,150,150,250);
-    g.drawLine(150,150,150,250);
-    g.drawLine(50,150,100,200);
-    g.drawLine(150,150,200,200);
-    g.drawLine(150,250,200,300);
-    g.drawLine(50,250,100,300);
+        g.drawLine(100,200,100,300);
+        g.drawLine(100,200,200,200);
+        g.drawLine(100,300,200,300);
+        g.drawLine(200,200,200,300);
+        g.drawLine(50,250,50,150);
+        g.drawLine(50,250,150,250);
+        g.drawLine(50,150,150,150);
+        g.drawLine(50,150,150,150);
+        g.drawLine(150,150,150,250);
+        g.drawLine(150,150,150,250);
+        g.drawLine(50,150,100,200);
+        g.drawLine(150,150,200,200);
+        g.drawLine(150,250,200,300);
+        g.drawLine(50,250,100,300);
 
         // DRAW Sphere
-        g.drawOval(400,150,100,100);
-        g.drawOval(440,150,20,100);
-        g.drawOval(427,150,45,100);
-        g.drawOval(410,150,80,100);
-        g.drawOval(400,190,100,20);
-        g.drawOval(400,177,100,45);
-        g.drawOval(400,160,100,80);
+        g.drawOval(80,180,100,100);
+        g.drawOval(120,180,20,100);
+        g.drawOval(107,180,45,100);
+        g.drawOval(90,180,80,100);
+        g.drawOval(80,220,100,20);
+        g.drawOval(80,207,100,45);
+        g.drawOval(80,190,100,80);
 
 
         // DRAW INSCRIBED/CIRCUMSCRIBED TRIANGLE
